@@ -17,6 +17,6 @@ org.postgresql.util.PSQLException: The authentication type 10 is not supported. 
 
 ## 오류 해결
 
-해당 오류는 Postgres 버전과 자바 버전이 맞지 않아서 나는 오류
-Postgres JDBC 버전을 다시 다운로드 하여 해결하였다.
+해당 오류는 Postgres 버전과 자바 버전이 맞지 않아서 나는 오류  
+Postgres JDBC 버전을 다시 다운로드 하여 해결하였다.  
 [Postgres JDBC 다운로드](https://jdbc.postgresql.org/download/)
