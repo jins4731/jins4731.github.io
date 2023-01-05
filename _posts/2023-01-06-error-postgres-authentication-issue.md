@@ -1,5 +1,5 @@
 ---
-title: [Postgres] The authentication type 10 issue
+title: Postgres-The authentication type 10 issue
 author: jins4731
 date: 2023-01-06 00:58:00 +0900
 categories: [Error, Backend]
